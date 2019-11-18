@@ -1,0 +1,23 @@
+body {
+  background-image: url('https://i.imgur.com/dVYD8UX.jpg');
+  background-size: cover;
+  padding: 50px;
+  font: 20px 'Noto Sans KR', sans-serif;
+  color:white;
+}
+
+nav{
+
+    display: flex;
+   justify-content:space-evenly;
+   list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 20px;
+    font-size: 20px;
+    background-color:rgb(248, 217, 217,.5) ;
+ 
+}
+a {
+  color: #00B7FF;
+}
